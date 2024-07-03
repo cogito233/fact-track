@@ -1,0 +1,9 @@
+*.txt
+*.csv
+*.pyc
+*.log
+*.pkl
+*.npy
+*.sh
+*.out
+*.json
